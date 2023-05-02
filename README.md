@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Stole this idea from: https://github.com/BEPb/BEPb/blob/main/README.md -->
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![lemenkov's github stats](https://github-readme-stats.vercel.app/api?username=lemenkov&show_icons=true&theme=radical&include_all_commits=true) | ![lemenkov's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lemenkov&theme=radical&layout=compact) |
